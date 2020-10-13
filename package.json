@@ -1,0 +1,20 @@
+{
+  "name": "firstPro",
+  "version": "1.0.0",
+  "description": "第一个成体系的项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiLiLiJing/firstPro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiLiLiJing/firstPro/issues"
+  },
+  "homepage": "https://github.com/LiLiLiJing/firstPro#readme"
+}
